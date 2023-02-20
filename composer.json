@@ -1,0 +1,10 @@
+{
+    "require": {
+        "spatie/laravel-medialibrary": "10.0.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "phpstan/extension-installer": true
+        }
+    }
+}
