@@ -1,4 +1,4 @@
-# vue-2-ex
+# Crud Vue With Image
 
 ## Project setup
 ```
